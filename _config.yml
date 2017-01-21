@@ -4,9 +4,9 @@ bio: 'DNN workshop'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: http://www.trendsandlife.com/wp-content/uploads/2016/08/Items-You-Shouldn’t-Take-On-Summer-Holiday-.jpg
 
-url: http://www.trendsandlife.com/wp-content/uploads/2016/08/Items-You-Shouldn’t-Take-On-Summer-Holiday-.jpg
+url: http://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
