@@ -3,7 +3,7 @@ name: melissa test
 bio: 'DNN workshop'
 
 # if it's an external image, update below for true
-external-image: false
+external-image: true
 picture: http://weknowyourdreams.com/image.php?pic=/images/travel/travel-05.jpg
 
 url: http://koppl.in/indigo
